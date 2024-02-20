@@ -57,4 +57,4 @@ Using the above schema, write a (Postgres) SQL `SELECT` query to return all ques
 **Answer box:**
 ```sql
 -- Write query here
-```
+``` 
